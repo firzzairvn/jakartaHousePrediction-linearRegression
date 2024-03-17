@@ -34,5 +34,5 @@ This program was created to fulfill an independent study assignment from the Inf
 To using this repository, run the following commands
 
 ```bash
-git clone https://github.com/firzzairvn/jakartaHousePrice-prediction-IBMAcademy.git
+git clone https://github.com/firzzairvn/jakartaHousePrediction-linearRegression.git
 ```
